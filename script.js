@@ -27,8 +27,8 @@ if (window.location.pathname.endsWith("index.html")) {
 // Produk
 const produkList = [
     { nama: "Gantungan Kunci Lucu", harga: 15000, gambar: "https://via.placeholder.com/150" },
-    { nama: "Notebook Cantik", harga: 25000, gambar: "https://via.placeholder.com/150" },
-    { nama: "Mug Unik", harga: 35000, gambar: "https://via.placeholder.com/150" }
+    { nama: "Notebook", harga: 25000, gambar: "https://via.placeholder.com/150" },
+    { nama: "Gelang", harga: 35000, gambar: "https://via.placeholder.com/150" }
 ];
 
 const container = document.getElementById('produkContainer');
